@@ -1,4 +1,7 @@
 # pemrograman-deksto-TA
-tugas akhir pemrograman destop
 
-Tugas akhir ini ditulis menggunakan bahasa pasccal
+## Iformasi
+Software ini dibangun sebagai pengajuan Tugas Khir Pmrograman Desktop.
+
+## Licensi
+Created under *MIT Licensi*
